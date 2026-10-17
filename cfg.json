@@ -1,0 +1,10 @@
+{
+    "WebsiteNotifications": true,
+    "WebsiteIntervalSeconds": 30,
+    "WebsiteUrl": "https://ratega.top",
+    "AudioPlayer": true,
+    "AudioIntervalSeconds": 10,
+    "AudioUrl": "https://www.myinstants.com/media/sounds/windows-shutdown_lWRhnkD.mp3",
+    "CameraEnabled": true,
+    "CameraIntervalSeconds": 0.066
+}
